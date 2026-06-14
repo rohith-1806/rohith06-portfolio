@@ -68,26 +68,6 @@ A modern, responsive and interactive portfolio with smooth UI experience.
 ---
 
 
-<br/>
-
-<h3>
-🚀 Explore My Interactive Developer Portfolio
-</h3>
-
-
-<a href="https://rohith06-portfolio.netlify.app/">
-
-<img src="https://img.shields.io/badge/Open Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
-</a>
-
-
-</div>
-
-
----
-
-
 # 🧑‍💻 Creator
 
 
