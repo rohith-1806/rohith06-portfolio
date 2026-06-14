@@ -93,9 +93,8 @@ A modern, responsive and interactive portfolio with smooth UI experience.
 
 <div align="center">
 
-<strong>
 ## Perumalla Rohith
-</strong>
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver" />
