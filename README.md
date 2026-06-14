@@ -121,10 +121,6 @@ A modern, responsive and interactive portfolio with smooth UI experience.
 <div align="center">
 
 
-🌐 **Portfolio Website**
-
-<br/><br/>
-
 <a href="https://rohith06-portfolio.netlify.app/">
 
 <img src="https://img.shields.io/badge/View Live Website-success?style=for-the-badge&logo=googlechrome"/>
