@@ -135,42 +135,9 @@ A modern, responsive and interactive portfolio with smooth UI experience.
 <br/><br/>
 
 
-📂 **Source Code**
-
-<br/><br/>
-
-<a href="https://github.com/rohith-1806/rohith06-portfolio">
-
-<img src="https://img.shields.io/badge/View Source Code-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-</div>
-
 
 ---
 
-
-# 📊 GitHub Stats
-
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohith-1806&show_icons=true&theme=tokyonight"/>
-
-
-<br/><br/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-1806&theme=tokyonight"/>
-
-
-</div>
-
-
----
 
 
 # 🌐 Connect With Me
